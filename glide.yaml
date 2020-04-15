@@ -1,5 +1,0 @@
-package: github.com/martin-helmich/kubernetes-crd-example
-import:
-- package: k8s.io/apimachinery
-  subpackages:
-  - pkg/apis/meta/v1
