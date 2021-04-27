@@ -10,5 +10,5 @@ Building the example:
 
 Setting up a custom resource definition (CRD) with an example object:
 
-    $ kubectl apply -f https://raw.githubusercontent.com/martin-helmich/kubernetes-crd-client/master/kubernetes/crd.yaml
-    $ kubectl apply -f https://raw.githubusercontent.com/martin-helmich/kubernetes-crd-client/master/kubernetes/project.yaml
+    $ kubectl apply -f https://raw.githubusercontent.com/martin-helmich/kubernetes-crd-example/master/kubernetes/crd.yaml
+    $ kubectl apply -f https://raw.githubusercontent.com/martin-helmich/kubernetes-crd-example/master/kubernetes/project.yaml
